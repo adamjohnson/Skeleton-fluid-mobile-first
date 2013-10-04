@@ -22,13 +22,30 @@
 /*  #Mobile First Grid
 ================================================== */
 
-    .container                             { width: 92%; position: relative; margin-left: auto; margin-right: auto; }
+    .container                                       { width: 92%; position: relative; margin-left: auto; margin-right: auto; }
     .container .columns,
-    .container .column                { float: left; display: inline; }
-    .row                                      { margin-bottom: 4.166666666666667%; }
+    .container .column                          { float: left; display: inline; }
+    .row                                                { margin-bottom: 4.166666666666667%; }
 
-    /* We don't need to specify 100% for the grid here because it's assumed by the browser. Less code = Mo' betta. */
-
+    .container .one.column,
+    .container .one.columns,
+    .container .two.columns,
+    .container .three.columns,
+    .container .four.columns,
+    .container .five.columns,
+    .container .six.columns,
+    .container .seven.columns,
+    .container .eight.columns,
+    .container .nine.columns,
+    .container .ten.columns,
+    .container .eleven.columns,
+    .container .twelve.columns,
+    .container .thirteen.columns,
+    .container .fourteen.columns,
+    .container .fifteen.columns,
+    .container .sixteen.columns,
+    .container .one-third.column,
+    .container .two-thirds.column            { width: 100%; }
 
 /* #Tablet
 ================================================== */
