@@ -1,6 +1,6 @@
 # Fluid Mobile First Skeleton Grid
 
-A fluid, mobile first version of Dave Gamache's Skeleton. Starting at mobile sizes and moving up to a max-width of 1200px.
+A fluid, mobile first version of Dave Gamache's Skeleton. Starting at mobile sizes and moving fluidly up to a max-width of 1200px.
 
 ## How to implement the Grid System
 
